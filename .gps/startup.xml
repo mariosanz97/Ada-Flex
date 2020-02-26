@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<GPS>
+  <startup file="copy_paste_toolbar.py" load="TRUE"  />
+  <startup file="copy_paste.py" load="TRUE"  />
+  <startup file="closeold.py" load="TRUE"  />
+  <startup file="ispell.py" load="TRUE"  />
+</GPS>

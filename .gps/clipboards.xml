@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<Clipboard>
+  <clipboard last="true" >Integer&apos;Image(F)</clipboard>
+  <clipboard>&quot;Factorial de 5 = &quot; </clipboard>
+  <clipboard>&quot;Factorial de 5 = &quot;, </clipboard>
+  <clipboard>
+   Factorial(5);</clipboard>
+  <clipboard>procedimiento</clipboard>
+  <clipboard>funcion;</clipboard>
+  <clipboard>procedure Main is
+
+    X,Y : Integer;
+    Z : Float :=3.0;
+    C: Character;
+    B: Boolean;
+    
+begin
+    X := 5;
+    Y := X;
+    Z := 0.25; 
+    C := &apos;A&apos;; 
+    X := Y + 1; 
+    B := True; 
+    Y := X * 3; 
+    Y := Y + 5; 
+    X := Y / 2; 
+   null;
+end Main;
+
+</clipboard>
+  <clipboard>procedure Main is
+
+    X,Y : Integer;
+    Z : Float :=3.0;
+    C: Character;
+    B: Boolean;
+    
+begin
+    X := 5;
+    Y := X;
+    Z := 0.25; 
+    C := &apos;A&apos;; 
+    X := Y + 1; 
+    B := True; 
+    Y := X * 3; 
+    Y := Y + 5; 
+    X := Y / 2; 
+
+   null;
+end Main;</clipboard>
+  <clipboard>procedure Main is
+
+    X,Y : Integer;
+    Z : Float :=3.0;
+    C: Character;
+    B: Boolean;
+    
+begin
+    X := 5;
+    Y := X;
+    Z := 0.25; 
+    C := &apos;A&apos;; 
+    X := Y + 1; 
+    B := True; 
+    Y := X * 3; 
+    Y := Y + 5; 
+    X := Y / 2; 
+
+   null;
+end Main;
+</clipboard>
+  <clipboard>    X,Y : Integer;
+    Z : Float :=3.0;
+    C: Character;
+    B: Boolean;</clipboard>
+</Clipboard>
